@@ -19,3 +19,4 @@ const endereco = {
 console.log(saudacao)
 console.log(fala())
 console.log(endereco)
+console.log(endereco.moradores)
