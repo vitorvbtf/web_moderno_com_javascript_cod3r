@@ -9,3 +9,7 @@ const pessoa = {
 pessoa.escrever()
 const escrevendo = pessoa.escrever.bind(pessoa)
 escrevendo()
+
+falar = (nome,saudacao) => `${saudacao}, meu nome é ${nome}`
+
+console.log(falar('leandro','olá'))

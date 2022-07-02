@@ -6,3 +6,29 @@ function imprimir(nome, indice){
 fabricantes.forEach(imprimir)
 fabricantes.forEach(fabricantes => console.log(fabricantes)
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const pessoas = ['vitor', 'Felipe', 'Arthur']
+function imprimir(pessoas){
+    console.log(imprimir)
+}
